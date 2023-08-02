@@ -1,0 +1,69 @@
+------------------------------ TAMANHOS DE PIZZA ------------------------------
+Pizza Pequena - Pizza P
+Pizza Média - Pizza M
+Pizza Grande - Pizza G
+Pizza Tamanho Família - Pizza Tam F
+Pizza Gigante - Pizza Giga
+------------------------------------------------------------------------------
+Pizza P - Calabresa
+Pizza M - Calabresa
+Pizza G - Calabresa
+Pizza Tam F - Calabresa
+Pizza Giga - Calabresa
+------------------------------ SABORES DE PIZZA ------------------------------
+
+-------------------------------------------------------------------------
+PIZZAS TRADICIONAIS
+-------------------------------------------------------------------------
+Calabresa - queijo, molho de tomate, calabresa, cebola, tomate picado, azeite, orégano e azeitona
+
+Portuguesa- queijo, azeitona preta, ovo cozido, presunto, cebola, ervilha, molho de tomate, milho verde, pimentão e orégano.
+
+Muçarela - queijo muçarela, molho de tomate, azeitona, tomate e orégano
+
+Marguerita - queijo muçarela, molho de tomate, manjericão, tomate, azeitona,  e orégano
+
+Quatro queijos - queijo muçarela, gorgonzola, parmesão e catupiry
+
+Frango com catupiry - queijo muçarela, frango, catupiry, sálvia e molho de tomate
+
+Napolitana - tomate, azeite de oliva, orégano e alho
+
+Americana - muçarela, molho de tomate, ovos fatiados e bacon
+
+Mexicana - nachos, carne moída apimentada, queijos cheddar, muçarela e requeijão
+
+Pepperoni - pepperoni, queijo, molho de tomate, orégano, azeite e pimenta
+
+Atum - atum, muçarela e molho de tomate
+
+Pão de alho - alho, requeijão, queijo e salsinha
+
+Carne seca com banana - carne seca,, cebolinha, banana e requeijão
+
+Alcachofra - muçarela de búfala, alcachofra, azeitonas, tomate seco e manjericão
+
+-------------------------------------------------------------------------
+PIZZAS DOCE
+-------------------------------------------------------------------------
+Brigadeiro - brigadeiro, granulado de chocolate e cerejas
+
+Romeu e Julieta - queijo muçarela e goiabada
+
+Califórnia - queijo, pêssego, goiaba, figo e abacaxi
+
+-------------------------------------------------------------------------
+PIZZAS GOUMERT
+-------------------------------------------------------------------------
+Francesa - mix de shitake, shimeji, champignon, catupiry e tomate cereja
+
+Parma com rúcula - presunto parma, rúcula, muçarela, orégano e tomate
+
+Caprese - muçarela de búfala, tomate, manjericão e azeitona
+
+Alho Negro - muçarela de búfala, manjericão, tomate-cereja, molho de tomate e alho negro
+
+Scamorza - queijo scamorza, molho de tomate, tomate, manjericão e azeitona
+
+
+
